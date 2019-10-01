@@ -1,0 +1,1 @@
+void save(ll type);

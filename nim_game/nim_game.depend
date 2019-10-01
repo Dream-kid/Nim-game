@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1529778943 source:c:\users\sourav\desktop\nim_game\design.cpp
+	"header.h"
+
+1529215255 c:\users\sourav\desktop\nim_game\header.h
+	<bits/stdc++.h>
+	"design.h"
+	"line.h"
+	<Windows.h>
+	"print.h"
+	"pc_mode.h"
+	<string.h>
+	<dos.h>
+	<time.h>
+	"line.h"
+	"control.h"
+	"load.h"
+	<ctype.h>
+	"option.h"
+	"temp.h"
+	"history.h"
+
+1528977059 c:\users\sourav\desktop\nim_game\design.h
+
+1529088298 c:\users\sourav\desktop\nim_game\line.h
+
+1529778944 source:c:\users\sourav\desktop\nim_game\main.cpp
+	"header.h"
+
+1528999582 c:\users\sourav\desktop\nim_game\option.h
+
+1529778944 source:c:\users\sourav\desktop\nim_game\option.cpp
+	"header.h"
+
+1529779150 source:c:\users\sourav\desktop\nim_game\line.cpp
+	"header.h"
+
+1529040753 c:\users\sourav\desktop\nim_game\control.h
+
+1529778944 source:c:\users\sourav\desktop\nim_game\control.cpp
+	"header.h"
+
+1529045967 c:\users\sourav\desktop\nim_game\load.h
+
+1529216801 source:c:\users\sourav\desktop\nim_game\load.cpp
+	"header.h"
+
+1529058349 c:\users\sourav\desktop\nim_game\print.h
+
+1529778943 source:c:\users\sourav\desktop\nim_game\print.cpp
+	"header.h"
+
+1529088680 c:\users\sourav\desktop\nim_game\save.h
+
+1529088680 source:c:\users\sourav\desktop\nim_game\save.cpp
+	"header.h"
+
+1529089081 c:\users\sourav\desktop\nim_game\temp.h
+
+1529778943 source:c:\users\sourav\desktop\nim_game\temp.cpp
+	"header.h"
+
+1529090367 c:\users\sourav\desktop\nim_game\history.h
+
+1529778944 source:c:\users\sourav\desktop\nim_game\history.cpp
+	"header.h"
+
+1529215255 c:\users\sourav\desktop\nim_game\pc_mode.h
+
+1529778944 source:c:\users\sourav\desktop\nim_game\pc_mode.cpp
+	"header.h"
+
